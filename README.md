@@ -90,5 +90,4 @@ This is a great starter project to learn about:
 ---
 
 ## 📄 License
-
-MIT License © 2025 [TheLinuxCodingNerd](https://github.com/TheLinuxCodingNerd)
+© 2025 [TheLinuxCodingNerd](https://github.com/TheLinuxCodingNerd)
